@@ -1,1 +1,1 @@
-# Recipe-App
+Developed a dynamic recipe app using HTML, CSS, and JavaScript, integrated with the Cake API to fetch and display a wide variety of recipes. The app allows users to search for recipes, view detailed instructions, and explore ingredient lists. Designed an intuitive and responsive user interface for seamless browsing across devices.
